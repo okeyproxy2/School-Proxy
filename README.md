@@ -7,23 +7,23 @@ Choose school proxy servers that are unrestricted, compatible with various opera
 
 ## Methods for Unblocking Websites at School
 
-Method 1: School Proxy
+**Method 1: School Proxy**
 
 Using a school proxy is one of the simplest ways to unblock websites. Proxies hide your IP address and route your internet traffic through different public servers. Many proxies are designed to work with specific apps or browsers, making them user-friendly.
 
-Method 2: VPN
+**Method 2: VPN**
 
 By using a VPN, your connection is routed through a remote VPN server, which then connects you to the website. This conceals your actual IP address and enables you to bypass website restrictions. If you encounter a performance slowdown, there are ways to enhance your VPN speed.
 
-Method 3: Google’s Cache
+**Method 3: Google’s Cache**
 
 Google keeps local copies of websites to speed up loading times. This caching process operates similarly to your browser cache but on the server side. If you can’t access the original site, you might still be able to access its cached version.
 
-Method 4: HTML to PDF Converter
+**Method 4: HTML to PDF Converter**
 
 If you don’t need direct access to the blocked website but want to view its content, use an HTML-to-PDF converter. This tool accesses the restricted URL on your behalf and converts it into a downloadable PDF document. Simply input the URL into a free HTML to PDF converter and click “Get PDF.”
 
-Method 5: Chrome Extensions
+**Method 5: Chrome Extensions**
 
 Various browser extension proxies are tailored for popular browsers. These extensions function like a proxy website but are integrated directly into your browser, eliminating the need to visit a separate proxy site to unblock content.
 
